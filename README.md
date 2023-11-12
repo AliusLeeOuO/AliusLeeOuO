@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## 🛠️ Languages and Tools:
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Alius Lee</h1>
+## 🛠️ My Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,go,solidity,mysql,postman,git,docker" />
