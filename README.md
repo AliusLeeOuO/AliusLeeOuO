@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Alius Lee</h1>
-⚡ A passionate self-taught Front-end / Web3 Developer in China. A undergraduate student.
+⚡ A passionate self-taught Front-end / Web3 Developer in China.
 
 ## 🛠️ My Languages and Tools:
 <p align="center">
